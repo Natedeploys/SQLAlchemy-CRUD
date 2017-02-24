@@ -1,5 +1,5 @@
 # SQLAlchemy-CRUD
-Utilising Python with SQL Alchemy, SQLite &amp; Vagrant to run CRUD functions.
+Utilising Python with SQL Alchemy &amp; Vagrant to run CRUD functions on SQLite using python classes mapped by the ORM.
 
 SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
