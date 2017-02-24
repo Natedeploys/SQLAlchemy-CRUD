@@ -5,7 +5,9 @@ SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives app
 
 ## FILES
 
-database_setup.py - This file is used to setup our database on sql lite using Python classes (ORM).
+database_setup.py - This file is used to setup our database on sql lite using Python classes that get mapped by SQLAlchemys famous ORM.
+
+webserver.py - Used to create our post and get methods, the server, the html content and deal with routing.
 
 ## INSTALLATION
 
